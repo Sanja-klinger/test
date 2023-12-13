@@ -1,0 +1,5 @@
+# Groceries
+
+- [ ] Sweets
+- [ ] Wine
+- [ ] Bananas
