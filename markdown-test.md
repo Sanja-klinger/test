@@ -2,13 +2,10 @@
 
 Welcome to my profile :)
 
--My programming languages
-
-  -C#
-  
-  -JavaScript
-  
-  -CSS
+- My programming languages
+  - C#
+  - JavaScript
+  - CSS
 
 Nesto nesto pojelo
 
