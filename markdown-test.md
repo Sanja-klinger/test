@@ -1,4 +1,11 @@
-# Misteriozni naslov
+# Nicos Profile
+
+Welcome to my profile :)
+
+-My programming languages
+  -C#
+  -JavaScript
+  -CSS
 
 Nesto nesto pojelo
 
